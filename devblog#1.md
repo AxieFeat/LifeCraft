@@ -1,5 +1,5 @@
 New:
-1. Unique generations of the world;
+1. Unique world generations;
 2. Own Nps models;
 3. New menus:
     I) Main menu;
